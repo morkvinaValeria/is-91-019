@@ -1,0 +1,22 @@
+body {
+  background-color: azure;
+  text-align: center;
+}
+h1 {
+  font-family: 'Courier New', Courier, monospace;
+  color: rosybrown;
+}
+p {
+  text-align: left;
+}
+div {
+  height: 50%;
+  width: 50%;
+  background-color: rgb(235, 224, 228);
+  margin: 0 auto;
+  border: 2px solid rgb(223, 198, 235);
+  padding: 1%;
+}
+ul {
+  text-align: left;
+}
